@@ -1,5 +1,7 @@
 enum CoreEnumTheme { light, dark, highContrast, highContrastDark }
 
+enum CoreEnumDirection { top, down, left, right }
+
 enum CoreEnumDevice { mobile, tablet, desktop, television, foldable, watch }
 
 enum CoreEnumOrientation { portrait, landscape }
